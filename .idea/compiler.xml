@@ -6,7 +6,7 @@
         <processor name="Lombok" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="17">
       <module name="x.x.main" target="17" />
       <module name="x.x.test" target="17" />
     </bytecodeTargetLevel>
